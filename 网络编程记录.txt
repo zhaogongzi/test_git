@@ -1,0 +1,5 @@
+套接字socket
+1.gethostname() 函数   获取主机名
+2.gethostbyname(host_name)    获取ip地址
+SOCK_STREAM      tcp协议
+SOCK_DGRAM       udp协议
